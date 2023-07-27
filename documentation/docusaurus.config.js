@@ -21,7 +21,7 @@ const config = {
   organizationName: 'LegartisTech', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  // trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
