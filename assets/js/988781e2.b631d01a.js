@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[493],{6800:t=>{t.exports=JSON.parse('{"title":"API","description":"Learn all about legartis API\'s.","slug":"/category/api","permalink":"/docs/category/api","navigation":{"next":{"title":"Getting Started Guide","permalink":"/docs/api/getting-started"}}}')}}]);
