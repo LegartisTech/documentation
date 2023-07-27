@@ -67,7 +67,7 @@ All requests to the Legartis API will need to be authenticated. This is done by 
 To create an access token, run the following command in your terminal:
 
 ```bash
-curl --location 'https://auth.legartis.ai/auth/realms/legartis/protocol/openid-connect/token' \
+curl --location 'https://auth.legartis.ai/realms/legartis/protocol/openid-connect/token' \
   --header 'Content-Type: application/x-www-form-urlencoded' \
   --data-urlencode 'client_id={client_id_provided_by_legartis}' \
   --data-urlencode 'client_secret={client_secret_provided_by_legartis}' \
