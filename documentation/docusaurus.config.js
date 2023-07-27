@@ -21,6 +21,7 @@ const config = {
   organizationName: 'LegartisTech', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -43,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/LegartisTech/documentation/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/LegartisTech/documentation/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -85,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/docs/getting-started',
+                to: '/docs/api/getting-started',
               },
             ],
           },
