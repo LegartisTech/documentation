@@ -1,0 +1,128 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DjangoUnresolvedStaticReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="67" name="TypeScript" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="vue-table-lite" />
+            <item index="7" class="java.lang.String" itemvalue="confirmmodal" />
+            <item index="8" class="java.lang.String" itemvalue="bugfixicon" />
+            <item index="9" class="java.lang.String" itemvalue="changeaddressmodal" />
+            <item index="10" class="java.lang.String" itemvalue="selectorg" />
+            <item index="11" class="java.lang.String" itemvalue="addcategory" />
+            <item index="12" class="java.lang.String" itemvalue="orgsettingsdashboardentry" />
+            <item index="13" class="java.lang.String" itemvalue="adminicon" />
+            <item index="14" class="java.lang.String" itemvalue="icon" />
+            <item index="15" class="java.lang.String" itemvalue="iconbutton" />
+            <item index="16" class="java.lang.String" itemvalue="loadingspinner" />
+            <item index="17" class="java.lang.String" itemvalue="loadingdata" />
+            <item index="18" class="java.lang.String" itemvalue="iconhref" />
+            <item index="19" class="java.lang.String" itemvalue="alert" />
+            <item index="20" class="java.lang.String" itemvalue="infobox" />
+            <item index="21" class="java.lang.String" itemvalue="trainingabsences" />
+            <item index="22" class="java.lang.String" itemvalue="viewleads" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="61">
+            <item index="0" class="java.lang.String" itemvalue="mashumaro" />
+            <item index="1" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="2" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="3" class="java.lang.String" itemvalue="oic" />
+            <item index="4" class="java.lang.String" itemvalue="httplib2" />
+            <item index="5" class="java.lang.String" itemvalue="requests" />
+            <item index="6" class="java.lang.String" itemvalue="numpy" />
+            <item index="7" class="java.lang.String" itemvalue="redis" />
+            <item index="8" class="java.lang.String" itemvalue="simplejson" />
+            <item index="9" class="java.lang.String" itemvalue="django" />
+            <item index="10" class="java.lang.String" itemvalue="picamera" />
+            <item index="11" class="java.lang.String" itemvalue="cachetools" />
+            <item index="12" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="13" class="java.lang.String" itemvalue="RPi.GPIO" />
+            <item index="14" class="java.lang.String" itemvalue="pytz" />
+            <item index="15" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="16" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="17" class="java.lang.String" itemvalue="python-docx" />
+            <item index="18" class="java.lang.String" itemvalue="pyicu" />
+            <item index="19" class="java.lang.String" itemvalue="fasttext" />
+            <item index="20" class="java.lang.String" itemvalue="legartis-language-detection" />
+            <item index="21" class="java.lang.String" itemvalue="pycld3" />
+            <item index="22" class="java.lang.String" itemvalue="botocore" />
+            <item index="23" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="24" class="java.lang.String" itemvalue="cryptography" />
+            <item index="25" class="java.lang.String" itemvalue="packaging" />
+            <item index="26" class="java.lang.String" itemvalue="setuptools" />
+            <item index="27" class="java.lang.String" itemvalue="django-storages" />
+            <item index="28" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="29" class="java.lang.String" itemvalue="pyopenssl" />
+            <item index="30" class="java.lang.String" itemvalue="pybind11" />
+            <item index="31" class="java.lang.String" itemvalue="easy-thumbnails" />
+            <item index="32" class="java.lang.String" itemvalue="attrs" />
+            <item index="33" class="java.lang.String" itemvalue="pyrsistent" />
+            <item index="34" class="java.lang.String" itemvalue="exceptiongroup" />
+            <item index="35" class="java.lang.String" itemvalue="boto3" />
+            <item index="36" class="java.lang.String" itemvalue="watchdog" />
+            <item index="37" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="38" class="java.lang.String" itemvalue="faker" />
+            <item index="39" class="java.lang.String" itemvalue="pillow" />
+            <item index="40" class="java.lang.String" itemvalue="urllib3" />
+            <item index="41" class="java.lang.String" itemvalue="gitpython" />
+            <item index="42" class="java.lang.String" itemvalue="pathspec" />
+            <item index="43" class="java.lang.String" itemvalue="pyflakes" />
+            <item index="44" class="java.lang.String" itemvalue="smmap" />
+            <item index="45" class="java.lang.String" itemvalue="mypy" />
+            <item index="46" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="47" class="java.lang.String" itemvalue="black" />
+            <item index="48" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="49" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="50" class="java.lang.String" itemvalue="gitdb" />
+            <item index="51" class="java.lang.String" itemvalue="click" />
+            <item index="52" class="java.lang.String" itemvalue="flake8" />
+            <item index="53" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="54" class="java.lang.String" itemvalue="mccabe" />
+            <item index="55" class="java.lang.String" itemvalue="tomli" />
+            <item index="56" class="java.lang.String" itemvalue="fastapi-pagination" />
+            <item index="57" class="java.lang.String" itemvalue="ruamel-yaml" />
+            <item index="58" class="java.lang.String" itemvalue="django-import-export" />
+            <item index="59" class="java.lang.String" itemvalue="dataquality" />
+            <item index="60" class="java.lang.String" itemvalue="xlsxwriter" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="type.__getitem__" />
+          <option value="notifications.member_letters.fastapi_views.Color" />
+          <option value="service_common.management.management.commands.runconsumers.Command._collect_all_consumers" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TypeScriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  </profile>
+</component>
