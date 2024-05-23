@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # Create data points
+[Swagger API](https://apidocs.legartis.ai/?urls.primaryName=v2%2Fontology#/prompts.automatedcheckpoint/create_acp_by_id_v2)
 
 All provided examples in this guide are shown in python code. To get the code in other programming languages, follow the third party integration guide howto import openapi specifications in Postman.
 
@@ -48,6 +49,9 @@ print(jurisdiction_court_boolean_acp.friendly_id)
 ```
 
 ## Assign prompt to a playbook provision
+
+[Swagger API](https://apidocs.legartis.ai/?urls.primaryName=v2%2Fontology#/provision.playbookprovision/update_full_playbook_provision_v2)
+
 To evaluate a prompt, assign it to a playbook provision. A playbook provision is a subscription to a specific provision within a playbook, directly linking the prompt to the relevant section of the playbook.
 
 ```python
