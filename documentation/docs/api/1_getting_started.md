@@ -84,7 +84,6 @@ curl -H "Authorization: Bearer {access_token}" \
   --header 'Accept: application/json'
 ```
 
-
 ## Conclusion
 
 This guide should help you get started with the Legartis API. Please note that API features may be added, removed, or changed in the future. 

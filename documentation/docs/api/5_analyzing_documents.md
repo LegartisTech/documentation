@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # Analyzing documents by api
@@ -14,10 +14,11 @@ base_url = "api.legartis.ai"
 company = "demo_company" 
 document_id = uuid.uuid4() 
 pipeline_id = uuid.uuid4()
-          
+plabyook_id = 123 # Define playbook as described in playbook section
+
 data = {
-    "id": document_id, #UUID used later to pull the document
-    "playbook_id": 103, # provided to you during setup by legartis
+    "id": document_id, # UUID used later to pull the document
+    "playbook_id": plabyook_id,
     "pipeline_id": pipeline_id, # UUID, automatically triggers the extraction/classification, not just the upload
     "company_id": company,
     "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
